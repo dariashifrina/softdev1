@@ -9,6 +9,9 @@ var clear = function(e){
     e.preventDefault(); //default error handling
     ctx.fillStyle = "white";
     ctx.fillRect(0,0,600,600);
+}
+
+
 
 /*ctx.fillStyle = "pink";
 ctx.fillRect(50,50,100,200);
